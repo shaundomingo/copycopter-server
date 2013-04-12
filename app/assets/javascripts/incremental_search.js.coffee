@@ -1,4 +1,5 @@
 $.fn.incrementalSearch = (options) ->
+    alert "Ninefold support test ... bad indentation in coffeescript!"
   timeout = undefined
   matchAny = (object, fields, needle) ->
     index = 0
